@@ -135,5 +135,4 @@ const LocataireModif = () => {
         </div>
     );
 };
-
 export default LocataireModif;
