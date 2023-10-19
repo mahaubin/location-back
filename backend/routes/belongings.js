@@ -2,7 +2,6 @@ import express from "express";
 import { verifyUser } from "../utils/verifyToken.js";
 import { createBelongings, deleteBelongings, getAllBelongings,getBelongingsUserStatus, getBelongings, getBelongingsUser, updateBelongings } from "../controllers/belongings.js";
 
-
 const router = express.Router();
 
 // CREATE
