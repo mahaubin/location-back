@@ -1,8 +1,6 @@
 import React from 'react';
 import '../Assets/css/Accueil.scss';
 
-
-
 const Dashboard = () => {
     return (
         <div className='dashContainer'>
