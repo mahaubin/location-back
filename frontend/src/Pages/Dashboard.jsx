@@ -1,6 +1,6 @@
-import React, from 'react';
+import React from 'react';
 import '../Assets/css/Accueil.scss';
-import AuthContext from '../context/AuthContext';
+
 
 
 const Dashboard = () => {
